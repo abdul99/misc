@@ -1,0 +1,1 @@
+START cmd.exe /c "cd F:\MobaXterm_Portable_v10.4 & start MobaXterm_Personal_10.4  & cd  F:/Kafka-Cluster-setup/Kafka-Schema-resgistry/confluent-oss-4.0.0-2.11.tar/confluent-oss-4.0.0-2.11/confluent-4.0.0 & cd /home/mobaxterm"
